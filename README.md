@@ -77,10 +77,14 @@ surendra = {
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surendramahla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=surendramahla&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=surendramahla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=surendramahla&theme=tokyonight&hide_border=true" width="48%" />
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendramahla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" />
 
