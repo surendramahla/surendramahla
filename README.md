@@ -53,7 +53,12 @@ surendra = {
 <details open>
 <summary><b>Data Analysis & Visualization</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=numpy,matplotlib,plotly" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
+<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40"/>
+
 </details>
 
 <details open>
